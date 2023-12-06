@@ -1,0 +1,2 @@
+a = "daniyal"
+print(a)
